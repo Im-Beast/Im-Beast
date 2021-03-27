@@ -17,5 +17,5 @@ Since I'm in high school right now I'm programming just in my free time.
 <img
     alt="Im-Beast's WakaTime stats"
     align="center"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Beast&theme=nord&border_radius=0.75rem&custom_title=Mine%20WakaTime"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Beast&theme=nord&border_radius=0.75rem&custom_title=Mine%20WakaTime&layout=compact"
 />
