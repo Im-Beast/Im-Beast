@@ -2,8 +2,8 @@
 
 Im Beast, and actually my name is Mateusz.
 
-I'm 16 years old and I really enjoy programming, I do it since 4th grade of elementary school. </br>
-Since I'm in high school right now I'm programming just in my free time.
+I'm 16 years old, and I really enjoy programming, I do it since 4th grade of elementary school. </br>
+Since I'm in high school  I do it just in my free time.
 
 ##### 📗 Currently learning Vue
  * Working on a decentralized platform to watch videos with friends
