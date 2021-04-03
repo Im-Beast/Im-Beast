@@ -8,14 +8,18 @@ Since I'm in high school right now I'm programming just in my free time.
 ##### 📗 Currently learning Vue
  * Working on a decentralized platform to watch videos with friends
 
-<img
-    alt="Im-Beast's github stats"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=Im-Beast&count_private=true&show_icons=true&theme=nord&border_radius=0.75rem&include_all_commits=true&custom_title=My%20github%20statistics"
-/>
+<!-- ❤️ https://github.com/anuraghazra/github-readme-stats -->
 
-<img
-    alt="Im-Beast's WakaTime stats"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Beast&theme=nord&border_radius=0.75rem&custom_title=Mine%20WakaTime&layout=compact"
-/>
+<p align="center" width="100%">
+    <img
+        alt="Im-Beast's github stats"
+        src="https://github-readme-stats.vercel.app/api?username=Im-Beast&count_private=true&show_icons=true&theme=nord&border_radius=0.75rem&include_all_commits=true&custom_title=My%20github%20statistics"
+    />
+</p>
+
+<p align="center" width="100%">
+    <img
+        alt="Im-Beast's WakaTime stats"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=Beast&theme=nord&border_radius=0.75rem&custom_title=Mine%20WakaTime%20for%20last%207%20days&layout=compact"
+    />
+</p>
