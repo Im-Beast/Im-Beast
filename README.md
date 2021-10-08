@@ -6,7 +6,7 @@ I'm 16 years old, and I really enjoy programming, I do it since 4th grade of ele
 Since I'm in high school  I do it just in my free time.
 
 ##### 📗 Currently learning Vue
- * Working on a decentralized platform to watch videos with friends
+ * Working on a decentralized platform to watch videos with friends \[delayed by having no time right now]
 
 <!-- ❤️ https://github.com/anuraghazra/github-readme-stats -->
 
