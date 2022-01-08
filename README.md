@@ -3,10 +3,8 @@
 Im Beast, and actually my name is Mateusz.
 
 I'm 16 years old, and I really enjoy programming, I do it since 4th grade of elementary school. </br>
-Since I'm in high school  I do it just in my free time.
+Since I'm in high school I do it just in my free time.
 
-##### 📗 Currently learning Vue
- * Working on a decentralized platform to watch videos with friends \[delayed by having no time right now]
 
 <!-- ❤️ https://github.com/anuraghazra/github-readme-stats -->
 
