@@ -2,7 +2,7 @@
 
 Im Beast, and actually my name is Mateusz.
 
-I'm 17 years old, and I really enjoy programming, I do it since 4th grade of elementary school. </br>
+I'm 18 years old, and I really enjoy programming, I do it since 4th grade of elementary school. </br>
 Since I'm in high school I do it just in my free time.
 
 
