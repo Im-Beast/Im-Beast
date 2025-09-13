@@ -18,6 +18,6 @@ Since I'm in high school I do it just in my free time.
 <p align="center" width="100%">
     <img
         alt="Im-Beast's WakaTime stats"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=Beast&theme=nord&border_radius=0.75rem&custom_title=My%20WakaTime&layout=compact&range=all_time"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=Beast&theme=nord&border_radius=0.75rem&custom_title=My%20WakaTime&layout=compact&range=all_time&langs_count=26"
     />
 </p>
